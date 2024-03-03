@@ -2,8 +2,8 @@ import "./App.css";
 
 function App() {
   return (
-    <h1 className="text-2xl font-bold underline bg-blue  text-green-700">
-      Hello Mahnedar!
+    <h1 className="bg-white p-6 rounded-md shadow-md text-green-900">
+      Hello Vivan!
     </h1>
   );
 }
